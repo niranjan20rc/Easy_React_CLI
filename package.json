@@ -1,0 +1,11 @@
+{
+  "name": "my-tailwind-cli",
+  "version": "1.0.1",
+  "description": "Custom CLI to create Vite + React + Tailwind project",
+  "bin": {
+    "my-tailwind-cli": "./index.js"
+  },
+  "type": "module",
+  "author": "Your Name",
+  "license": "MIT"
+}
