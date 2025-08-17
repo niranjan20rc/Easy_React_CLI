@@ -1,6 +1,6 @@
 {
-  "name": "my-tailwind-cli",
-  "version": "1.0.2",
+  "name": "react-taliwind",
+  "version": "1.0.4",
   "description": "Custom CLI to create Vite + React + Tailwind project",
   "bin": {
     "my-tailwind-cli": "./index.js"
