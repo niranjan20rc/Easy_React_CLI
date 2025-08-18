@@ -1,6 +1,6 @@
 {
-  "name": "react-taliwind",
-  "version": "1.0.4",
+  "name": "easy-react-pro",
+  "version": "1.0.5",
   "description": "Custom CLI to create Vite + React + Tailwind project",
   "bin": {
     "my-tailwind-cli": "./index.js"
