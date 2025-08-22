@@ -20,3 +20,7 @@ You don’t need to install it globally — just run it instantly with **npx**:
 
 ```bash
 npx easy-react-pro your_project_name
+
+
+![Descriptive Alt Text](https://mern-inage-db.onrender.com/images/68a8ad3f0129e44098d48088/view)
+
